@@ -1,0 +1,116 @@
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\bin\Debug\netcoreapp3.1\bundleconfig.json
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\bin\Debug\netcoreapp3.1\CognitiveSearch.UI.exe
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\bin\Debug\netcoreapp3.1\CognitiveSearch.UI.deps.json
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\bin\Debug\netcoreapp3.1\CognitiveSearch.UI.runtimeconfig.json
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\bin\Debug\netcoreapp3.1\CognitiveSearch.UI.runtimeconfig.dev.json
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\bin\Debug\netcoreapp3.1\CognitiveSearch.UI.dll
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\bin\Debug\netcoreapp3.1\CognitiveSearch.UI.pdb
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\bin\Debug\netcoreapp3.1\CognitiveSearch.UI.Views.dll
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\bin\Debug\netcoreapp3.1\CognitiveSearch.UI.Views.pdb
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\bin\Debug\netcoreapp3.1\Azure.Search.Documents.dll
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\bin\Debug\netcoreapp3.1\Microsoft.Spatial.dll
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.BrowserLink.dll
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\bin\Debug\netcoreapp3.1\System.IO.Hashing.dll
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\CognitiveSearch.UI.csproj.AssemblyReference.cache
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\CognitiveSearch.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\CognitiveSearch.UI.AssemblyInfoInputs.cache
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\CognitiveSearch.UI.AssemblyInfo.cs
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\CognitiveSearch.UI.csproj.CoreCompileInputs.cache
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\CognitiveSearch.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\CognitiveSearch.UI.RazorAssemblyInfo.cache
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\CognitiveSearch.UI.RazorAssemblyInfo.cs
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\staticwebassets\CognitiveSearch.UI.StaticWebAssets.Manifest.cache
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\staticwebassets\CognitiveSearch.UI.StaticWebAssets.xml
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\scopedcss\bundle\CognitiveSearch.UI.styles.css
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\CognitiveSearch.UI.TagHelpers.input.cache
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\CognitiveSearch.UI.TagHelpers.output.cache
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\CognitiveSearch.UI.RazorCoreGenerate.cache
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Customize.cshtml.g.cs
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\NotAvailable.cshtml.g.cs
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UploadData.cshtml.g.cs
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Search.cshtml.g.cs
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Footer.cshtml.g.cs
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Header.cshtml.g.cs
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\CognitiveSearch.UI.RazorTargetAssemblyInfo.cache
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\CognitiveSearch.UI.RazorTargetAssemblyInfo.cs
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\CognitiveSearch.UI.Views.pdb
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\CognitiveSearch.UI.csproj.CopyComplete
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\CognitiveSearch.UI.dll
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\CognitiveSearch.UI.pdb
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02 - Web UI Template\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\CognitiveSearch.UI.genruntimeconfig.cache
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\bin\Debug\netcoreapp3.1\bundleconfig.json
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\bin\Debug\netcoreapp3.1\CognitiveSearch.UI.exe
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\bin\Debug\netcoreapp3.1\CognitiveSearch.UI.deps.json
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\bin\Debug\netcoreapp3.1\CognitiveSearch.UI.runtimeconfig.json
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\bin\Debug\netcoreapp3.1\CognitiveSearch.UI.runtimeconfig.dev.json
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\bin\Debug\netcoreapp3.1\CognitiveSearch.UI.dll
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\bin\Debug\netcoreapp3.1\CognitiveSearch.UI.pdb
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\bin\Debug\netcoreapp3.1\CognitiveSearch.UI.Views.dll
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\bin\Debug\netcoreapp3.1\CognitiveSearch.UI.Views.pdb
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\bin\Debug\netcoreapp3.1\Azure.Search.Documents.dll
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\bin\Debug\netcoreapp3.1\Microsoft.Spatial.dll
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.BrowserLink.dll
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\bin\Debug\netcoreapp3.1\System.IO.Hashing.dll
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\CognitiveSearch.UI.csproj.AssemblyReference.cache
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\CognitiveSearch.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\CognitiveSearch.UI.AssemblyInfoInputs.cache
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\CognitiveSearch.UI.AssemblyInfo.cs
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\CognitiveSearch.UI.csproj.CoreCompileInputs.cache
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\CognitiveSearch.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\CognitiveSearch.UI.RazorAssemblyInfo.cache
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\CognitiveSearch.UI.RazorAssemblyInfo.cs
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\staticwebassets\CognitiveSearch.UI.StaticWebAssets.Manifest.cache
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\staticwebassets\CognitiveSearch.UI.StaticWebAssets.xml
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\scopedcss\bundle\CognitiveSearch.UI.styles.css
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\CognitiveSearch.UI.TagHelpers.input.cache
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\CognitiveSearch.UI.TagHelpers.output.cache
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\CognitiveSearch.UI.RazorCoreGenerate.cache
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Customize.cshtml.g.cs
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\NotAvailable.cshtml.g.cs
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UploadData.cshtml.g.cs
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Search.cshtml.g.cs
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Footer.cshtml.g.cs
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Header.cshtml.g.cs
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\CognitiveSearch.UI.RazorTargetAssemblyInfo.cache
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\CognitiveSearch.UI.RazorTargetAssemblyInfo.cs
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\CognitiveSearch.UI.Views.pdb
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\CognitiveSearch.UI.csproj.CopyComplete
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\CognitiveSearch.UI.dll
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\CognitiveSearch.UI.pdb
+C:\Users\yuanyuan.xu\Documents\Azure Projects\Frontend\02_Web UI Template_Updated\CognitiveSearch.UI\obj\Debug\netcoreapp3.1\CognitiveSearch.UI.genruntimeconfig.cache
